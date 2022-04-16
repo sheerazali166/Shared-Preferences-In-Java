@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kinza_Shared_Preferences_App</string>
+    <string name="enter_user_name_here">Enter Username Here</string>
+    <string name="enter_password_here">Enter Password Here</string>
+    
+    <string name="kinza_username">Kinza Amjad</string>
+    <string name="kinza_password">Kinza101</string>
+    
+    <string name="kinza_preferences">I love 💕💕💕 Kinza Amjad 💕💕💕 So So Much</string>
+    <string name="kinza_status">❤❤❤ Kinza Anjad ❤❤❤  is So So Chocolaty</string>
+    
+</resources>
